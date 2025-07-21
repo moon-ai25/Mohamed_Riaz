@@ -1,0 +1,7 @@
+name,age,income,gender,city,target
+Alice,25,50000,Female,New York,1
+Bob,35,60000,Male,Los Angeles,0
+Charlie,,55000,Male,Chicago,1
+Diana,40,,Female,Houston,0
+Eve,30,70000,,Phoenix,1
+Frank,28,58000,Male,,0
