@@ -1,7 +1,8 @@
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
-import matplotlib.pyplot as pl
+import matplotlib.pyplot as plt
+
 vocab_size = 10000
 max_len = 200
 
